@@ -3,7 +3,7 @@
     "job_name": "Task2",
     "note": "",
     "parameters": {
-        "enabled": true,
+        "enabled": false,
         "job_type": "standard",
         "notification": {
             "slack_recipients": [
