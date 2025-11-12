@@ -1,0 +1,31 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Test_Sadique_GIT-tasking",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "job_type": "standard",
+        "notification": {
+            "slack_recipients": [
+                {
+                    "channel": [],
+                    "user": []
+                }
+            ]
+        },
+        "pipeline_parameters": {},
+        "pipeline_path": "Test_Sadique_GIT",
+        "snaplex_path": "ManiPlexD"
+    },
+    "schedule": {
+        "start_date": "2025-11-12",
+        "start_time": "06:13:04",
+        "time_zone": "Europe/Dublin"
+    },
+    "trigger": {
+        "start_date": "2025-11-12",
+        "start_time": "06:13:04",
+        "time_zone": "Europe/Dublin"
+    },
+    "trigger_type": "ScheduleTrigger"
+}
